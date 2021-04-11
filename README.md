@@ -9,11 +9,11 @@ The following page displays a random password generator. The javascript needed t
 
 ## Credit:
 
-Hannah Folk, my tutor, helped with reviewing my code and helped me make necesary changes to adhere to the guidelines in the README file for this assignment. I also utilized youtube to help me.
+Hannah Folk, my tutor, helped with reviewing my code and helped me make neccessary changes to adhere to the guidelines in the README file for this assignment. I also utilized youtube to help me.
 
 ## Deployed Site:
 
-https://eweagraff.github.io/password_generator/?
+https://eweagraff.github.io/password_generator/
 
 ## License:
 
