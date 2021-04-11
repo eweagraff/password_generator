@@ -2,9 +2,10 @@
 
 ## Description:
 
-The following page displays a random password generator. The javascript needed to be manipulated in order to create a random password between 8-128 characters, which included letters (both uppercase and lowercase), numbers and special characters. In order to accomplish this, I created a function including if/else statements. I also created variables for the function.
+The following page displays a random password generator. The javascript needed to be manipulated in order to create a random password between 8-128 characters. The user was given choices between including letters (both uppercase and lowercase), numbers and special characters in their random password. In order to accomplish this, I created a function including if/else statements. I utilized the skills learned this past week, including arrays, if/else statements, functions, coditionals, creating variables, and for loops.
 
-![Screenshot of professional portfolio page](assets/images/professionalportfoliowebpage.png)
+![Screenshot of prompt, choose password length](assets/images/password_generator.png)
+![Screenshot of random generated password](assets/images/password.png)
 
 ## Credit:
 
@@ -12,7 +13,7 @@ Hannah Folk, my tutor, helped with reviewing my code and helped me make necesary
 
 ## Deployed Site:
 
-https://eweagraff.github.io/professional_portfolio/
+https://eweagraff.github.io/password_generator/?
 
 ## License:
 
